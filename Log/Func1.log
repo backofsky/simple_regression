@@ -1,0 +1,7 @@
+BEGIN procedure ClassFunction1Per.SetSizeGraph (XX,YY,Dx,Dy : integer)
+По Х  71 830
+По Y   1 485
+END procedure ClassFunction1Per.SetSizeGraph (XX,YY,Dx,Dy : integer)
+BEGIN Procedure ClassFunction1Per.DisplayGraph 
+По Х  71 830
+По Y   1 485

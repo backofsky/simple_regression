@@ -1,0 +1,6 @@
+BEGIN procedure ClassGraphSetka.GetSizeGraph (var XX,YY,DDx,DDy : integer)
+DlinaChislaX 15
+DlinaChislaY 70
+он у  71 830
+он Y   1 485
+END procedure ClassGraphSetka.GetSizeGraph (var XX,YY,DDx,DDy : integer)
